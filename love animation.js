@@ -2,7 +2,6 @@ const qs = document.querySelector.bind(document);
 const easingHeart = mojs.easing.path(
   "M0,100C2.9,86.7,33.6-7.3,46-7.3s15.2,22.7,26,22.7S89,0,100,0"
 );
-
 const el = {
   container: qs(".mo-container"),
 
